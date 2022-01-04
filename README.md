@@ -238,7 +238,7 @@ and much more.
 * [Kunal Wadhwa](https://github.com/kwadhwa539)		        
 * [Utkarsh Gandhi](https://github.com/---)           
 * [Ayush Mehta](https://github.com/AayushM8)
-* [Gaurav Kumar](https://github.com/---)
+* [Gaurav Kumar](https://github.com/GauravKumar9920)
 
 
 ### Acknowledgement
