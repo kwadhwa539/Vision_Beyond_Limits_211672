@@ -102,11 +102,13 @@ strength of this type of neural network.
  ┗ requirements.txt
 ```
 
-## Implementation
+## Installation and Usage
 
-<p align="center">
-<img src="https://github.com/kwadhwa539/Vision_Beyond_Limits_211672/blob/main/git%20assets/implementation%20flowchart.png" width="400" align="center">
-</p>
+* Clone this git repo
+
+```
+git clone https://github.com/kwadhwa539/Vision_Beyond_Limits_211672.git
+```
 
 ### Environment Setup
 
@@ -115,6 +117,12 @@ strength of this type of neural network.
 * Once in your own virtual environment you can install the packages required to train and run the baseline model.
 * Before installing all dependencies run  'pip install numpy tensorflow' for CPU-based machines or  'pip install numpy tensorflow-gpu && conda install cupy' for GPU-based (CUDA) machines, as they are install-time dependencies for some other packages.
 * Finally, use the provided requirements.txt file for the remainder of the Python dependencies like so,  'pip install -r requirements.txt' (make sure you are in the same environment as before)
+
+## Implementation
+
+<p align="center">
+<img src="https://github.com/kwadhwa539/Vision_Beyond_Limits_211672/blob/main/git%20assets/implementation%20flowchart.png" width="400">
+</p>
 
 
 ### Localization Training
