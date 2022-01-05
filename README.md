@@ -236,7 +236,7 @@ and much more.
 ### Contributors
 
 * [Kunal Wadhwa](https://github.com/kwadhwa539)		        
-* [Utkarsh Gandhi](https://github.com/---)           
+* [Utkarsh Gandhi](https://github.com/Utkarsh2401)           
 * [Ayush Mehta](https://github.com/AayushM8)
 * [Gaurav Kumar](https://github.com/GauravKumar9920)
 
