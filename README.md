@@ -104,7 +104,7 @@ strength of this type of neural network.
 
 ## Implementation
 
-![](git-assets/implementation-flowchart.png)
+![](https://github.com/kwadhwa539/Vision_Beyond_Limits_211672/blob/main/git%20assets/implementation%20flowchart.png)
 
 ### Environment Setup
 
