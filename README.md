@@ -104,7 +104,9 @@ strength of this type of neural network.
 
 ## Implementation
 
-![](https://github.com/kwadhwa539/Vision_Beyond_Limits_211672/blob/main/git%20assets/implementation%20flowchart.png)
+<p align="center">
+<img src="https://github.com/kwadhwa539/Vision_Beyond_Limits_211672/blob/main/git%20assets/implementation%20flowchart.png" width="400" align="center">
+</p>
 
 ### Environment Setup
 
@@ -117,7 +119,9 @@ strength of this type of neural network.
 
 ### Localization Training
 
-(insert UNET ARCHITECTURE image from report)
+<p align="center">
+<img src="https://github.com/kwadhwa539/Vision_Beyond_Limits_211672/blob/main/git%20assets/UNET.jpeg">
+</p>
 
 The flow of the model is as follows:-
 * Expansion Part:-
@@ -205,9 +209,18 @@ $ python damage_classification.py --train_data /path/to/XBD/$process_data_output
 | 3. | PRECISION | 0.51 |
 | 4. | RECALL |0.75 |
 
-* (insert ouput merged image)
-
-* (insert result graphs from report)
+<p>
+<img src="https://github.com/kwadhwa539/Vision_Beyond_Limits_211672/blob/main/git%20assets/output%20merged.jpg" width="400">
+ (On left, Ground truth image. On right, Predicted image.)
+</p>
+<p>
+<img src="https://github.com/kwadhwa539/Vision_Beyond_Limits_211672/blob/main/git%20assets/accuracy.png" width="400">
+ (epoch v/s accuracy)
+</p>
+<p>
+<img src="https://github.com/kwadhwa539/Vision_Beyond_Limits_211672/blob/main/git%20assets/loss.png" width="400">
+ (epoch v/s loss)
+</p>
 
 ---
 
