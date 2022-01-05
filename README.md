@@ -104,7 +104,7 @@ strength of this type of neural network.
 
 ## Implementation
 
-(insert flowchart from report)
+![](git-assets/implementation-flowchart.png)
 
 ### Environment Setup
 
