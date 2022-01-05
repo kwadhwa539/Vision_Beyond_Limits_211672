@@ -116,8 +116,8 @@ git clone https://github.com/kwadhwa539/Vision_Beyond_Limits_211672.git
 * During development we used Google colab.
 * Our minimum Python version is 3.6+, you can get it from here.
 * Once in your own virtual environment you can install the packages required to train and run the baseline model.
-* Before installing all dependencies run  'pip install numpy tensorflow' for CPU-based machines or  'pip install numpy tensorflow-gpu && conda install cupy' for GPU-based (CUDA) machines, as they are install-time dependencies for some other packages.
-* Finally, use the provided requirements.txt file for the remainder of the Python dependencies like so,  'pip install -r requirements.txt' (make sure you are in the same environment as before)
+* Before installing all dependencies run  `pip install numpy tensorflow` for CPU-based machines or  `pip install numpy tensorflow-gpu && conda install cupy` for GPU-based (CUDA) machines, as they are install-time dependencies for some other packages.
+* Finally, use the provided requirements.txt file for the remainder of the Python dependencies like so,  `pip install -r requirements.txt` (make sure you are in the same environment as before)
 
 ## Implementation
 
